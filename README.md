@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/l3S3tgV.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/3jVtN9K.jpg">
- <img alt="A picture of a cartoony light blue anthropomorphic cat with a robotic arm waving at you" src="https://i.imgur.com/l3S3tgV.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmedark.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmelight.jpg">
+ <img alt="A picture of a cartoony light blue anthropomorphic cat with a robotic arm waving at you" src="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmedark.jpg">
 </picture>
 
 

@@ -7,7 +7,7 @@
 
 ## About me
 
-Hey there! My name's Carson, but the picture that I've set to show above this is of my OC, Rose (not the most creative name, but what are you gonna do?) who I use in place of myself in a lot of cases. I can't say I've done anything noteworthy, so I don't have much to put here. (If this format looks familiar at all, I just used the default GitHub readme template for this)
+Hey there! My name's Carson, but the picture that I've set to show above this is (a heavily simplified version) of my OC, Rose (not the most creative name, but what are you gonna do?) who I use in place of myself in a lot of cases. I can't say I've done anything noteworthy, so I don't have much to put here. (If this format looks familiar at all, I just used the default GitHub readme template for this)
 <!--
 **OrangeBlock0421/OrangeBlock0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,5 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmedark.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmelight.jpg">
- <img alt="A picture of a cartoony light blue anthropomorphic cat with a robotic arm waving at you" src="https://raw.githubusercontent.com/OrangeBlock0421/OrangeBlock0421/main/images/githubreadmedark.jpg">
-</picture>
-<!--
+Why hello there! Welcome to my GitHub profile. I'm a furry nerd who will most often upload pictures here, and rarely I'll put up some HTML code or something.
+<!-- 
 **OrangeBlock0421/OrangeBlock0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

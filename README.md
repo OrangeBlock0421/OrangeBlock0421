@@ -1,4 +1,4 @@
-Why hello there! Welcome to my GitHub profile. I'm a furry nerd who will most often upload pictures here, and rarely I'll put up some HTML code or something.
+Why hello there! Welcome to my GitHub profile. I'm a furry nerd who will most often upload pictures here, ~~and rarely I'll put up some HTML code or something.~~ So, this has changed somewhat, since I'm picking up coding in Python, I'm not an expert but I certainly do some things :3
 <!-- 
 **OrangeBlock0421/OrangeBlock0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
